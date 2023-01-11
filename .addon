@@ -1,0 +1,14 @@
+{
+  "Title": "Arknights Skadi",
+  "Type": "content",
+  "Org": "ibrs",
+  "Ident": "ark_skadi",
+  "Tags": "arknights anime",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "Metadata": {}
+}
