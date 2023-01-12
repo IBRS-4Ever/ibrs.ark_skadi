@@ -13,7 +13,6 @@
       "ResourcePaths": null,
       "HasCode": false,
       "CodePath": null,
-      "RootNamespace": null,
       "Metadata": {
         "SingleAssetSource": "models/skadi.vmdl",
         "Summary": "Skadi from Arknights.",
